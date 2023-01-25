@@ -1,10 +1,6 @@
-# test
+# Sales App
 
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
+A Clojure library designed for simple cli based sales application
 
 ## License
 
